@@ -19,7 +19,7 @@ It supports modern Telegram bot workflows and is designed to be simple to config
 
 ## 🚀 Deployment
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Nottyboypro/ZEEbot">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Nottyboypro/NottyMusic">
 <img src="https://img.shields.io/badge/Deploy%20on%20Heroku-brightgreen?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
@@ -27,7 +27,7 @@ It supports modern Telegram bot workflows and is designed to be simple to config
 
 ## 📱 Support & Contact
 <p align="center">
-<a href="https://t.me/ZeeMusicUpdate">
+<a href="https://t.me/NottyTeam">
 <img src="https://img.shields.io/badge/Support-Telegram-blueviolet?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="https://t.me/Nottyboyy">
