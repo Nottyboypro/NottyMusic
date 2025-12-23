@@ -17,33 +17,27 @@ It supports modern Telegram bot workflows and is designed to be simple to config
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<YOUR_USERNAME>/NottyMusic
-cd NottyMusic
-2️⃣ Install requirements
-Copy code
-Bash
-pip install -r requirements.txt
-3️⃣ Configure environment
-Rename sample.env to .env and fill required values.
-4️⃣ Run the project
-Copy code
-Bash
-bash start
-🛠 Deployment
-The project includes configuration files for:
-Heroku
-Docker
-VPS / Linux servers
-Refer to Procfile, Dockerfile, or heroku.yml based on your deployment choice.
-📄 Configuration
-Important files:
-config.py – core configuration
-sample.env – environment variable template
-runtime.txt – runtime specification
-🤝 Credits
+## 🚀 Deployment
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Nottyboypro/ZEEbot">
+<img src="https://img.shields.io/badge/Deploy%20on%20Heroku-brightgreen?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+---
+
+## 📱 Support & Contact
+<p align="center">
+<a href="https://t.me/ZeeMusicUpdate">
+<img src="https://img.shields.io/badge/Support-Telegram-blueviolet?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://t.me/Nottyboyy">
+<img src="https://img.shields.io/badge/Owner-Telegram-red?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+</p>
+
+
+## 🤝 Credits
 This project is based on an open-source foundation and has been customized, refactored, and rebranded as NottyMusic for independent use and further development.
-📜 License
+## 📜 License
 This project is provided for educational and development purposes.
 Please respect original open-source licenses where applicable.
