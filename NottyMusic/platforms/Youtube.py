@@ -13,7 +13,11 @@ from py_yt import VideosSearch, Playlist
 from NottyMusic.utils.database import is_on_off
 from NottyMusic.utils.formatters import time_to_seconds
 
-from config import API_URL, VIDEO_API_URL, API_KEY
+# yt.py (self-dependent)
+
+API_URL = "https://api.nexgenbots.xyz"          
+VIDEO_API_URL = "https://api.video.nexgenbots.xyz"
+API_KEY = ""  #
 
 
 def cookie_txt_file():
@@ -591,4 +595,5 @@ class YouTubeAPI:
         else:
             direct = True
             downloaded_file = await download_song(link)
+
         return downloaded_file, direct
