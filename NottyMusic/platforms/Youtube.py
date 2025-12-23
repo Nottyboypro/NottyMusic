@@ -17,7 +17,7 @@ from NottyMusic.utils.formatters import time_to_seconds
 
 API_URL = "https://api.nexgenbots.xyz"          
 VIDEO_API_URL = "https://api.video.nexgenbots.xyz"
-API_KEY = ""  #
+API_KEY = "30DxNexGenBotsbfe932"  #
 
 
 def cookie_txt_file():
@@ -597,3 +597,4 @@ class YouTubeAPI:
             downloaded_file = await download_song(link)
 
         return downloaded_file, direct
+
